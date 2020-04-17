@@ -1,4 +1,7 @@
 # Rails projects authentication
+>This is a project was built to demonstrate how to implementing authentication using Ruby on rails
+
+![](Capture.PNG)
 
 # Things you may want to cover:
 
@@ -28,5 +31,12 @@ Clone project and run
 Fork this repo and submit a PR for review and potential merge to main branch
 
 ## Engineers
-1. [Christian Salazar](https://github.com/Grifo89)
-2. [Edem Agbenyo](https://github.com/edemagbenyo/)
+
+👨‍💻 **Christian Salazar**
+
+- Github: [@grifo89](https://github.com/grifo89)
+- Twitter: [Christian_sm91](https://twitter.com/Christian_sm91)
+- LinkedIn: [Christian Salazar](https://www.linkedin.com/in/christian-salazar-mi%C3%B1o/)
+
+‍‍💻 **Edem Agbenyo**
+- Github: [Edem Agbenyo](https://github.com/edemagbenyo/)
